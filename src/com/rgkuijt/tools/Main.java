@@ -28,7 +28,7 @@ public class Main {
                 overwrite = true;
             }
         }
-        
+
         userDir = Paths.get(System.getProperty("user.dir"));
         pattern = Pattern.compile("(visible-(xs|sm|md|lg))([ \".,\\{])");
 

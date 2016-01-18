@@ -8,4 +8,5 @@ bstrp-patch is a tool to automatically replace all occurences of the old Bootstr
 -overwrite = Overwrite existing files instead of writing to output directory.
 
 ## Usage
+Place the jar in the root of your project directory and run it:
 java -jar bstrp-patch.jar
