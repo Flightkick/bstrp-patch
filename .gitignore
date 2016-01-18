@@ -1,0 +1,5 @@
+.idea/
+bstrp-patch-output/
+out/
+*.iml
+test.html
